@@ -60,3 +60,7 @@ In this project, you will employ several supervised algorithms of your choice to
 
 The dataset for this project originates from the UCI Machine Learning Repository here:  https://archive.ics.uci.edu/ml/datasets/Census+Income.
 The datset was donated by Ron Kohavi and Barry Becker, after being published in the article "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid". You can find the article by Ron Kohavi online here (https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf). The data we investigate here consists of small changes to the original dataset, such as removing the 'fnlwgt' feature and records with missing or ill-formatted entries.
+
+* I gathered the data, cleaned it, preprocessed it, choosed the model based on several algorithms performance analytics, then tuned the classifier using grid search and cross validation and obtained the best model possible.
+
+* The final f-beta score was approximately 75% and the accuracy score was 87%.
